@@ -1,6 +1,6 @@
 import { filterNames } from "./filterNames";
 import { useState } from "react";
-import Toolbar from "./Toolbar";
+import Toolbar from "./Toolbar/Toolbar";
 import ProjectList from "./ProjectList";
 
 
